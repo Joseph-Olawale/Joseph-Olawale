@@ -147,12 +147,12 @@ That's pretty much how I learn.
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/phantomblitzx)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/@Olawale_josephx)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/phantom728_)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/2347014579784)
 [![X](https://img.shields.io/badge/@phantomblitzxx-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/phantomblitzxx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/olawale-joseph)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joseph17ola@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:josephxlabs@gmail.com)
 
 </div>
 
