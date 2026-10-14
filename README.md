@@ -164,7 +164,7 @@ That's pretty much how I learn.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=asyncjosef&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Olawale&layout=compact&theme=tokyonight)
 
 <br><br>
 
